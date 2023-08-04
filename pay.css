@@ -1,0 +1,463 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header
+{
+    background-color:rgb(255, 255, 255);
+    width: 100%;
+    height: 85px;
+}*{
+    margin: 0;
+    padding: 0;
+}
+
+.header
+{
+    background-color:rgb(255, 255, 255);
+    width: 100%;
+    height: 85px;
+}
+.logo
+{
+    background: url(paytm_logo.png);
+    width: 50%;
+    background-size: cover;
+    height: 70px;
+    width: 300px;
+    align-items: center;
+}
+
+.list
+{
+    margin-left: 340px;
+    transform: translateY(-30px);
+}
+
+.one
+{
+   
+    padding-left: 20px;
+    padding-top: 200px;
+
+}
+.two
+{
+    padding-left: 20px;
+    padding-top: 200px;
+}
+
+.three
+{
+    padding-left: 20px;
+    padding-top: 200px;
+}
+.four
+{
+    padding-left: 20px;
+    padding-top: 200px;
+}
+
+.five
+{
+    padding-left: 20px;
+    padding-top: 200px;
+}
+
+.icon
+{
+    margin-left: 1200px;
+    border-radius:3px ;
+    transform: translateY(-45px);
+    size-adjust: 200px;
+}
+
+
+.header2
+{
+    background-color: rgb(192, 226, 220);
+    opacity: .8;
+    width: 100%;
+    height: 50px;
+    
+}
+
+.typing
+{
+    margin-left: 450px;
+    display: flex;
+    padding-top: 15px;
+    
+
+}
+/* main part */
+
+
+.main
+{
+
+}
+.image1 img
+{
+    height: 528px;
+    width: 500px;
+    margin-left: 860px;
+    transform: translateY(120px);
+}
+
+.image2 img
+{
+    height: 80px;
+    width: 80px;
+    margin-left: 50px;
+    transform: translateY(-400px);
+}
+
+.heading
+{
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 50px;
+    transform: translateY(-350px);
+}
+
+.para
+{
+    margin-left: 50px;
+    transform: translateY(-330px);
+    font-size: 18px;
+}
+button
+{
+    margin-left: 91px;
+    transform: translateY(-290px);
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+    border: 5px solid black;
+    padding: 8px;
+}
+
+/* main 2 */
+
+.main2
+{
+    background-color: rgb(61, 161, 228);
+    height:350px;
+    width: 100%;
+    transform: translateY(-150px);
+    
+}
+.heading1
+{
+    margin-left: 50px;
+    transform: translateY(50px);
+    color: white;
+    font-size: 25px;
+
+}
+
+.main3
+{
+    background-color: rgb(38, 69, 211);
+    height:350px;
+    width: 100%;
+    transform: translateY(-150px);
+    
+}
+.heading2
+{
+    margin-left: 50px;
+    transform: translateY(50px);
+    color: white;
+    font-size: 25px;
+}
+.pictures
+{
+    margin-left: 20px;
+    margin-top: 0px;
+    display: flex;
+    border-radius: 100%;
+    justify-content:space-around;
+}
+.pictues img
+{
+    border-radius: 100%;
+    
+
+}
+.first img
+{
+    height:  80px;
+    width: 80px;
+    margin-top: 100px;
+
+}
+.second img
+{
+    height:  80px;
+    width: 80px;
+    margin-top: 100px;
+
+}
+.third img
+{
+    height:  80px;
+    width: 80px;
+    margin-top: 100px;
+
+}
+.four img
+{
+    height:  80px;
+    width: 80px;
+   /* transform: translateY(-100px); */
+
+}
+.five img
+{
+    height:  80px;
+    width: 80px;
+    /* transform: translateY(-100px); */
+   
+
+}
+.six img
+{
+    height:  80px;
+    width: 80px;
+    margin-top: 100px;
+
+}
+.seven img
+{
+    height:  80px;
+    width: 80px;
+    margin-top: 100px;
+
+}
+.four p
+{
+    transform: translateY(-100px);
+
+}
+.five p
+{
+    transform: translateY(-100px);
+}
+p
+{
+    color: aliceblue;
+
+}
+
+.main4
+{
+    background-color: rgb(250, 246, 246);
+    height:1390px;
+    width: 100%;
+    transform: translateY(-150px);
+    
+}
+.heading4
+{
+    margin-left: 50px;
+    transform: translateY(50px);
+    color:black;
+    font-size: 35px;
+}
+
+.white img
+{
+    height: 550px;
+    width: 1230px;
+    padding: 5%;
+    border-radius: 90px;
+
+}
+
+
+/* INNER */
+.inner img
+{
+    height: 500px;
+    width: 650px;
+    margin-left: 700px;
+    transform: translateY(-600px);
+}
+.paytm  img
+{
+    transform: translateY(-1000px);
+    height: 80px;
+    width: 80px;
+    margin-left: 150px;
+
+}
+.paytm1 h2
+{
+    font-size: 40px;
+    margin-left: 150px;
+    transform: translateY(-970px);
+}
+.paytm1 h4
+{
+    font-size: 20px;
+    margin-left: 150px;
+    transform: translateY(-950px);
+}
+.paytm2
+{
+    transform: translateY(-600px);
+    margin-left: 100px;
+}
+.white1 img
+{
+   
+    height: 550px;
+    width: 1230px;
+    padding: 5%;
+    border-radius: 90px;
+    transform: translateY(-800px)
+}
+
+.inner2 img
+{
+    height: 400px;
+    width: 550px;
+    margin-left: 700px;
+    transform: translateY(-1350px);
+}
+.money img
+{
+    transform: translateY(-1750px);
+    height: 80px;
+    width: 80px;
+    margin-left: 150px;
+
+}
+.money1 h2
+{
+    font-size: 40px;
+    margin-left: 150px;
+    transform: translateY(-1730px);
+}
+.money1 h4
+{
+    font-size: 20px;
+    margin-left: 150px;
+    transform: translateY(-1710px);
+}
+.money2
+{
+    transform: translateY(-1350px);
+    margin: 50px;
+    height: 75px;
+    width: 100%;
+    border-bottom: 2px solid grey;
+    transform: translateY(-347px);
+    
+}
+.money button
+{
+    margin-left: 20px;
+
+}
+
+
+/* FOOTER */
+
+.footer
+{
+        background-color:rgb(231, 230, 230);
+        height: 800px;
+        width: 100%;
+}
+.footer1{
+    height:fit-content ;
+    width: fit-content ;
+}
+.footer1 p
+{
+    font-size: 20px;
+    color: black;
+    margin-left: 70px;
+    transform: translateY(50px);
+
+} 
+
+.footer2 img{
+    margin-left: 320px;
+}
+
+.footer3 img{
+    margin-left: 500px;
+    transform: translateY(-56px);
+}
+/* .footer2
+{
+    display: flex;
+    margin-left: 190px;
+    transform: translateY(-100px);
+}
+.footer button
+{
+    transform: translateY(100px);
+    margin-left: 70px;
+    font-size: 30px;
+    display: inline-flex;
+}
+.footer2 p
+{
+    font-size: 18px;
+    transform: translateY(89px)
+}
+.footer2 h2
+{
+    transform: translateY(124px);
+    color: white;
+    margin-left: -124px;
+}
+
+.footer3
+{
+    display: flex;
+    margin-left: 510px;
+    transform: translateY(-160px);
+}
+
+.footer3 p
+{
+    font-size: 15px;
+    /* margin-left: 20px; */
+/* }
+.footer3 h2
+{
+    transform: translateY(124px);
+    color: white;
+    margin-left: -99px;
+    font-size: 20px;
+} */ */
+.icons p
+{
+    color: grey;
+
+    transform: translateY(-200px);
+   
+    
+}
+.footer4 
+{
+    gap: 20px;
+    
+}
+ .footer4 p
+{
+ font-size: 20px;
+ color: grey;
+ margin-left: 60px;
+ transform: translateY(-600px);
+ border-bottom: 1px solid grey;
+ 
+}
